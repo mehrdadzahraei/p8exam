@@ -1,8 +1,9 @@
 #include "header.h"
+#include <stdio.h>
 
 int main()
 {
-	saySomthing();
+	printf("%s something\n", );
 	
 	return 0;
 }
